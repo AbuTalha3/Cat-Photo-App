@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.headline-main {
+  display: flex;
+  justify-content: center;
+  background-color: #0c135e;
+}
+
+.headline {
+  color: rgb(253, 249, 6);
+  /* display: flex;
+  justify-content: center; */
+  font-size: 3.5rem;
+  height: 4.5rem;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.headline-sec {
+  margin-left: 50px;
+  margin-top: 35px;
+  color: aliceblue;
+  font-size: 1rem;
+}
