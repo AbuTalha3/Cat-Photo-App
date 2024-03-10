@@ -14,7 +14,7 @@
 .headline-main {
   display: flex;
   justify-content: center;
-  background-color: #0c135e;
+  background-color: #a46905;
 }
 
 .headline {
@@ -35,6 +35,7 @@
   margin-top: 35px;
   color: aliceblue;
   font-size: 1rem;
+  text-decoration: none;
 }
 
 .sub-headings{
@@ -42,6 +43,8 @@
   justify-content: center;
   background-color: #2cae04;
   color: rgb(251, 206, 28);
+  height: 2.5rem;
+  align-items: center;
 }
 
 .footer {
