@@ -61,6 +61,52 @@
   align-items: center;
 }
 
+.cat-form {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.cat-question {
+  margin-bottom: 20px;
+}
+
+.cat-question legend {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.cat-question label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.cat-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.cat-submit {
+  width: 100%;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.cat-submit:hover {
+  background-color: #45a049;
+}
+
+
 p {
   font-size: 1.2rem;
   color: #04093e;
