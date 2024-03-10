@@ -53,20 +53,20 @@
       </section>
       <section>
         <h2 class="sub-headings">Cat Form</h2>
-        <form action="https://freecatphotoapp.com/submit-cat-photo">
-          <fieldset>
+        <form action="https://freecatphotoapp.com/submit-cat-photo" class="cat-form">
+          <fieldset class="cat-question">
             <legend>Is your cat an indoor or outdoor cat?</legend>
             <label><input id="indoor" type="radio" name="indoor-outdoor" value="indoor" checked> Indoor</label>
             <label><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> Outdoor</label>
           </fieldset>
-          <fieldset>
+          <fieldset class="cat-question">
             <legend>What's your cat's personality?</legend>
             <input id="loving" type="checkbox" name="personality" value="loving" checked> <label for="loving">Loving</label>
             <input id="lazy" type="checkbox" name="personality" value="lazy"> <label for="lazy">Lazy</label>
             <input id="energetic" type="checkbox" name="personality" value="energetic"> <label for="energetic">Energetic</label>
           </fieldset>
-          <input type="text" name="catphotourl" placeholder="cat photo URL" required>
-          <button type="submit">Submit</button>
+          <input type="text" name="catphotourl" placeholder="cat photo URL" required class="cat-input">
+          <button type="submit" class="cat-submit">Submit</button>
         </form>
       </section>
     </main>
