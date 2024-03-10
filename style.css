@@ -28,3 +28,19 @@
   color: aliceblue;
   font-size: 1rem;
 }
+
+.sub-headings{
+  display: flex;
+  justify-content: center;
+  background-color: #2cae04;
+  color: rgb(251, 206, 28);
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  background-color: #0c135e;
+  height: 2.5rem;
+  color: #ffef08;
+  align-items: center;
+}
