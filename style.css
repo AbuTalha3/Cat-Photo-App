@@ -112,6 +112,21 @@ p {
   color: #04093e;
 }
 
+.gallery {
+  overflow: hidden;
+}
+
+.slider {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.slider img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
 @media only screen and (max-width: 768px) {
   .headline {
     font-size: 2.5rem;
@@ -163,3 +178,4 @@ p {
     font-size: 0.8rem;
   }
 }
+
