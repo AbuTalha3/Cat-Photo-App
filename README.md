@@ -18,5 +18,5 @@ Demonstrates basic HTML structure and syntax.
 Contributions
 Contributions are not currently being accepted as this project is for educational purposes only.
 
-License
+# License
 This project is licensed under the MIT License.
