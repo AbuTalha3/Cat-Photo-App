@@ -1,7 +1,7 @@
 # Cat Photo App
 This project is a simple HTML practice exercise from Free Code Camp (FCC), aimed at beginners to get familiar with HTML.
 
-Acknowledgements
+# Acknowledgements
 Special thanks to Free Code Camp for providing an excellent tutorial and resources for learning HTML.
 
 About
