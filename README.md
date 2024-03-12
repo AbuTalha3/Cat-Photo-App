@@ -10,7 +10,7 @@ The Cat Photo App is a basic HTML project created as part of the Free Code Camp 
 # Instructions
 To view the Cat Photo App:
 
-Clone the repository.
+# Clone the repository.
 Open the index.html file in your web browser.
 Features
 Displays adorable cat photos.
