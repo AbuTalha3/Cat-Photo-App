@@ -1,4 +1,4 @@
-Cat Photo App
+# Cat Photo App
 This project is a simple HTML practice exercise from Free Code Camp (FCC), aimed at beginners to get familiar with HTML.
 
 Acknowledgements
